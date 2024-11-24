@@ -1,0 +1,5 @@
+Product{name='Jeans', price=1500,50, quantity=2, totalCost=3001,00}
+Product{name='T-shirt', price=500,75, quantity=3, totalCost=1502,25}
+Product{name='Sneakers', price=2500,00, quantity=1, totalCost=2500,00}
+
+Загальна вартість покупок: 7003,25
